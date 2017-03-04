@@ -471,6 +471,7 @@ table{border-collapse: collapse;}
 	box-sizing: border-box;
 	margin: 0;
 	box-sizing: border-box;
+	padding-top: 20px;
 }
 
 
@@ -580,9 +581,9 @@ div.about:after {
 	height: 14px;
 	content:"";
 	display: block;
-	width: 101.3%;
-	bottom: -407px;
-	left: -13px;
+	width: 100%;
+	bottom: -387px;
+
 }
 
 
@@ -593,8 +594,9 @@ div.about:before {
 	height: 14px;
 	content:"";
 	display: block;
-	width: 101.3%;
-	left: -13px;
+	width: 100%;
+	
+	top:-20px;
 }
 
 
@@ -746,7 +748,7 @@ div.about:before {
 	background-position: center;	
 	background-size: cover;
 	border-top: 10px solid #000;
-	
+	border-top: 10px solid #000;
 }
 
 .portfolio-item3{
@@ -762,7 +764,7 @@ div.about:before {
 	background-position: center;	
 	background-size: cover;
 	border-top: 10px solid #000;
-	
+	border-top: 10px solid #000;
 }
 
 
